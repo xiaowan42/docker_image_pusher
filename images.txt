@@ -6,4 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 #镜像
-elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/db:1.6.1
+docker.elastic.co/elasticsearch/elasticsearch:8.11.4
+docker.getcollate.io/openmetadata/server:1.6.1
+docker.getcollate.io/openmetadata/ingestion:1.6.1
